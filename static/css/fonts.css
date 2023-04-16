@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 body {
-  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+  font-family: Inter, Optima, Candara, Calibri, Arial, sans-serif;
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
